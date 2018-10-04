@@ -1,0 +1,6 @@
+<?php exit('Access denied'); __halt_compiler(); ?>
+******************************************************************
+This file is used by the Wordfence Web Application Firewall. Read 
+more at https://docs.wordfence.com/en/Web_Application_Firewall_FAQ
+******************************************************************
+a:19:{s:6:"apiKey";s:160:"e179be1ffd392209691e42f0b60fb15ee41f2c7ca3eb33f058fea526e0b2f6ee0ffecbfc631a0c3b972ea12214753c4795ce9ecfce32c3830f6e712a9d6e46775a5abd6d230e61f08f0b317157445cc2";s:6:"isPaid";b:0;s:7:"siteURL";s:27:"https://www.goclaptrinh.net";s:7:"homeURL";s:27:"https://www.goclaptrinh.net";s:14:"whitelistedIPs";s:0:"";s:9:"howGetIPs";s:0:"";s:25:"howGetIPs_trusted_proxies";s:0:"";s:13:"pluginABSPATH";s:50:"/home/goclaptrinh/web/goclaptrinh.net/public_html/";s:11:"other_WFNet";b:1;s:9:"serverIPs";s:35:"["80.241.210.190","184.168.221.89"]";s:15:"blockCustomText";s:0:"";s:13:"timeoffset_wf";s:1:"0";s:23:"advancedBlockingEnabled";s:1:"1";s:21:"betaThreatDefenseFeed";b:0;s:20:"disableWAFIPBlocking";s:1:"0";s:13:"patternBlocks";s:2:"[]";s:13:"countryBlocks";s:153:"{"blocks":[],"action":"block","loggedInBlocked":"","bypassRedirURL":"","bypassRedirDest":"","bypassViewURL":"","redirURL":"","cookieVal":"5a7e98898057d"}";s:11:"otherBlocks";s:33:"{"blockedTime":"300","blocks":[]}";s:8:"lockouts";s:37:"{"lockedOutTime":14400,"lockouts":[]}";}
